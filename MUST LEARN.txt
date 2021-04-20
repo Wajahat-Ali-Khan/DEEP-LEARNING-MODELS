@@ -1,0 +1,7 @@
+create language translation dictionary in python 
+python practise
+object oriented programming
+data structure 
+design pattern
+problem scenario solution from w3resource.com
+learn RDBMS
